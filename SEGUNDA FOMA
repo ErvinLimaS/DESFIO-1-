@@ -1,2 +1,71 @@
 %ESTA ES LA SEGUNDA FORMA DE NAVEGACIÓN
 
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Algo de Filosofía</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/a.css">
+	<style>
+p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.none {border-style: none;}
+p.hidden {border-style: hidden;}
+p.mix {border-style: dotted dashed solid double;}
+p.one {
+	border-style: solid;
+	border-color: red;
+}
+p.two {
+	border-style: solid;
+	border-color: blue;
+}
+div.columnita {
+  width:100%;
+  overflow:auto;
+}
+div.columnita div{
+  width:50%;  
+  float:left;
+}
+</style>
+<body>
+<header>
+		<h1>René Descartes</h1>
+		<img src="assets/img/Descartes.jpg">
+</header>
+<nav>
+	<ul>
+		<li><a href="index.html">Intoducción</li></a>
+		<li><a href="index2.html">Descartes, padre del racionalismo moderno</li></a>
+		<li><a href="index3.html">Video</li></a>
+		<li><a href="index4.html">Obras</li></a>
+	</ul>
+</nav>
+ <section>
+        <a id="introducción"></a>
+      <h2>Introducción</h2>
+      <p>
+        "Pienso, luego existo". Pocas ideas atraviesan con la fuerza que lo hace esta frase la historia de la filosfía occidental. En esa fórmula se resume el que Descartes consideraba su gran hallazgo filosófico: la inexoable certeza del yo que piensa y, por tanto, la herida de muerte a todo escepticismo que pretenda negar a la razón humana la posibilidad y su derecho de alcanzar la verdad.
+      </p>
+      <p>
+        Hasta en su mera formulación, el "Pienso, luego existo" reúne exquisitamente algunos de los rasgos que hacen que Descartes ocupe por mérito propio un lugar único en la historia del pensamiento: concisón, evidencia, claridad y una imperturbable voluntad de ir a la raíz última de los enigmas filosóficos. En esa fórmula cartesiana reconocemos a un tiempo la porfundidad del sabio y el brillo del buen comunicador. Con ella Descartes pretendió, por fin, haber ganado para la filosofía algo de la certeza de la matemática, poniendo fin a interminables disputas que, a diferencia de otros saberes, en filosofía parecían no permitir progreso alguno. En apenas tres palabras hallamos encerrada la idea que, como la clave de la bóveda de una catedral, aspira a sostener el edificio entero del conocimiento que pretende haber iniciado Descartes. 
+      </p>
+    </section>
+    <section>
+      	<h2>De soldado a Filósofo</h2>
+      	<p class="one">
+      		La guerra de los treinta años se desarrolló entre 1618 y 1648 en la Europa Central. Descartes estuvo enrolado, quizá como ingeniero militar, en diferentes ejércitos a lo largo de aquella guerra interminable. Tal y como él mismo cuenta en el Discurso del Método, un día que se ha datado como el 10 de noviembre de 1619 regresaba de la coronación del emperador para reincorporarse a su unidad cuando la llegada del invierno le obligó a hacer un alto en el camino. Aquella noche sin distracciones y "encerrado junto a una estufa" Descartes percibió en sueños su vación filosófica e ideó las líneas maestras del método que desarrollaría más adelante. 
+      	</p>
+      	<img src="assets/img/guerra.jpg">
+      </section>
+<footer>ESTA ES LA SEGUNDA FORMA QUE SE PIDIÓ PARA LA TAREA</footer>
+</body>
+</html>
